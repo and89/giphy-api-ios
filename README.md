@@ -11,6 +11,7 @@ Giphy API use example
 API: http://api.giphy.com 
 ----------------------------------
 
+![One](/screens/One.png) ![Two](/screens/Two.png) ![Three](/screens/Three.png)
 
 * Можете смело брать и переделывать под себя.
 * Если будете использовать, не забудьте везде поменять авторство!
