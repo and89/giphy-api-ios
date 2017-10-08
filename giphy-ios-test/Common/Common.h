@@ -13,6 +13,10 @@
 
 @class GiphyItem;
 
+/**
+ The Giphy API key. You will need obtain this key
+ **/
+#error get the API key!
 static NSString * const giphyAPI_key = @"";
 
 /**
