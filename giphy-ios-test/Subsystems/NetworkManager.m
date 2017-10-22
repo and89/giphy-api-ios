@@ -11,7 +11,7 @@
 
 @interface NetworkManager ()
 
-@property (atomic, strong) NSOperationQueue *networkQueue;
+@property (nonatomic, strong) NSOperationQueue *networkQueue;
 @property (atomic, strong) NSMutableSet<NSString *> *requestedUrls;
 
 @end
